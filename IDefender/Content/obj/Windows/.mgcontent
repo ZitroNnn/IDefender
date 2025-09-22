@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Fonts/debugFont.spritefont</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/addAmmo.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/addHealth.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/addMaxAmmo.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/addMaxHealth.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/addReloadSpeed.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/alienShip.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/alienShip1.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/alienShip2.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/ammoTxt.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/arrow.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/beginTxt.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/healthTxt.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/highScoreTxt.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/human.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/map.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/map1.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/map2.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/particle.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/pixel.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/playerShip.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/predatorBullet.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/predatorShip.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/scoreTxt.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/ship.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/ship1.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/titleTxt.png</File>
+    <File>E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/warning.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

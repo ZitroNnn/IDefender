@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/highScoreTxt.png","E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/bin/Windows/Textures/highScoreTxt.xnb","TextureProcessor","Texture2DContent",380,10325,0,0800598
+"E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/Textures/scoreTxt.png","E:/Pliki/Monogame/IDefender/IDefender/IDefender/Content/bin/Windows/Textures/scoreTxt.xnb","TextureProcessor","Texture2DContent",280,5205,0,0066777

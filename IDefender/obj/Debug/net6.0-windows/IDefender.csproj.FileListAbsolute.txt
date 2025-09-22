@@ -1,0 +1,260 @@
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.exe
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.deps.json
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.runtimeconfig.json
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.pdb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.csproj.AssemblyReference.cache
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.AssemblyInfoInputs.cache
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.AssemblyInfo.cs
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.csproj.CoreCompileInputs.cache
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.csproj.CopyComplete
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\refint\IDefender.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.pdb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.genruntimeconfig.cache
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\ref\IDefender.dll
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Fonts\debugFont.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\ship.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\alienShip.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\arrow.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\ship1.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\map.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\map1.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\playerShip.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\map2.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\pixel.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\human.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\warning.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\predatorBullet.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\ammoTxt.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\healthTxt.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addAmmo.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addMaxAmmo.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addReloadSpeed.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\alienShip1.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\particle.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\predatorShip.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\alienShip2.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addHealth.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addMaxHealth.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\titleTxt.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\beginTxt.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\highScoreTxt.xnb
+E:\Pliki\Monogame\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\scoreTxt.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Fonts\debugFont.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addAmmo.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addHealth.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addMaxAmmo.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addMaxHealth.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addReloadSpeed.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\alienShip.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\alienShip1.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\alienShip2.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\ammoTxt.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\arrow.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\beginTxt.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\healthTxt.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\highScoreTxt.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\human.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\map.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\map1.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\map2.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\particle.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\pixel.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\playerShip.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\predatorBullet.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\predatorShip.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\scoreTxt.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\ship.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\ship1.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\titleTxt.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\warning.xnb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.exe
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.deps.json
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.runtimeconfig.json
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.dll
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.pdb
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.dll
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+F:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+F:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.csproj.AssemblyReference.cache
+F:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.GeneratedMSBuildEditorConfig.editorconfig
+F:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.AssemblyInfoInputs.cache
+F:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.AssemblyInfo.cs
+F:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.csproj.CoreCompileInputs.cache
+F:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.csproj.CopyComplete
+F:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.dll
+F:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\refint\IDefender.dll
+F:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.pdb
+F:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.genruntimeconfig.cache
+F:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\ref\IDefender.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.csproj.AssemblyReference.cache
+G:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.GeneratedMSBuildEditorConfig.editorconfig
+G:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.AssemblyInfoInputs.cache
+G:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.AssemblyInfo.cs
+G:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.csproj.CoreCompileInputs.cache
+G:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\refint\IDefender.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.pdb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Fonts\debugFont.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addAmmo.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addHealth.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addMaxAmmo.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addMaxHealth.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addReloadSpeed.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\alienShip.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\alienShip1.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\alienShip2.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\ammoTxt.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\arrow.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\beginTxt.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\healthTxt.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\highScoreTxt.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\human.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\map.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\map1.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\map2.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\particle.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\pixel.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\playerShip.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\predatorBullet.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\predatorShip.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\scoreTxt.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\ship.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\ship1.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\titleTxt.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\warning.xnb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.exe
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.deps.json
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.runtimeconfig.json
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.pdb
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+G:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.csproj.CopyComplete
+G:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.genruntimeconfig.cache
+G:\College 2023\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\ref\IDefender.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Fonts\debugFont.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addAmmo.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addHealth.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addMaxAmmo.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addMaxHealth.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\addReloadSpeed.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\alienShip.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\alienShip1.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\alienShip2.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\ammoTxt.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\arrow.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\beginTxt.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\healthTxt.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\highScoreTxt.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\human.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\map.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\map1.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\map2.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\particle.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\pixel.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\playerShip.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\predatorBullet.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\predatorShip.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\scoreTxt.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\ship.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\ship1.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\titleTxt.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Content\Textures\warning.xnb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.exe
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.deps.json
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.runtimeconfig.json
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\IDefender.pdb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.csproj.AssemblyReference.cache
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.GeneratedMSBuildEditorConfig.editorconfig
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.AssemblyInfoInputs.cache
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.AssemblyInfo.cs
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.csproj.CoreCompileInputs.cache
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\refint\IDefender.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.pdb
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.genruntimeconfig.cache
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\ref\IDefender.dll
+G:\College 2023\Semester 1\C\IDefender\IDefender\IDefender\obj\Debug\net6.0-windows\IDefender.csproj.Up2Date
